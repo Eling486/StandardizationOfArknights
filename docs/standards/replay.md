@@ -409,7 +409,7 @@ description: 标准回放数据标准
             "type": "series",
             "series_info": {
                 "id": 8,
-                "series_id": "",
+                "series_id": "series_id",
                 "name": {
                     "en": "",
                     "zh": "元素治疗"
