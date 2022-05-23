@@ -4,7 +4,7 @@ module.exports = {
     lang: 'zh-CN',
     title: '明日方舟标准化',
     description: 'Standardization Of Arknights - 明日方舟标准化',
-    base: '/StandardizationOfArknights/docs/',
+    base: '/StandardizationOfArknights/',
     theme: defaultTheme({
         // 默认主题配置
         navbar: [
